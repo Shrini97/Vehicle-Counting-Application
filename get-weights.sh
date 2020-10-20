@@ -1,0 +1,1 @@
+wget -P model_data https://pjreddie.com/media/files/yolov3.weights
